@@ -1,60 +1,115 @@
-# 👋 Hey, I'm Jubail
+# Hi, I'm Jubail 👋
 
-### Developer • Builder • Gamer
+**Developer · Minecraft · Infrastructure**
 
-I build things I'm curious about.
+I build and manage software, infrastructure, and Minecraft systems.
 
-From **web applications and game projects** to **bots, tools, and random experiments**, I enjoy turning ideas into something real.
+I work with **Linux VPS servers, Minecraft servers, plugins, mods, networking, public server infrastructure, Discord bots, and web projects**.
 
-<p align="center">
+<p align="left">
   <a href="https://stranger.deathrose.fun/">
-    <img src="https://img.shields.io/badge/Portfolio-stranger.deathrose.fun-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-stranger.deathrose.fun-181818?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/GNMGAMING">
-    <img src="https://img.shields.io/badge/GitHub-GNMGAMING-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-GNMGAMING-181818?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jubail._.editz_/">
+    <img src="https://img.shields.io/badge/Instagram-@jubail._.editz_-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ What I Do
+### 🛠️ What I Work On
 
-🎮 Game Development  
-🌐 Web Development  
-🤖 Bots & Automation  
-🛠️ Tools & Experiments  
-💻 Software Development  
+| Area                   | What I Do                                      |
+| ---------------------- | ---------------------------------------------- |
+| 🖥️ **Infrastructure** | VPS, Linux, deployment & server administration |
+| 🎮 **Minecraft**       | Public servers, server systems & management    |
+| 🔧 **Plugins & Mods**  | Custom plugins, mods & gameplay systems        |
+| 🌐 **Networking**      | Proxies, DNS, domains & server networking      |
+| 🤖 **Automation**      | Discord bots, automation & custom tools        |
+| 💻 **Web**             | Websites, dashboards & web projects            |
 
-## 🧰 Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,nodejs,react,nextjs,mongodb,mysql,redis,git,github,docker" />
+### 🖥️ Infrastructure
+
+I work with Linux-based infrastructure and VPS environments, including:
+
+* Linux / Ubuntu server administration
+* VPS setup and configuration
+* Server deployment and maintenance
+* Docker-based services
+* Reverse proxy and networking
+* DNS and domain configuration
+* Databases and server services
+* Backups and server security
+
+---
+
+### 🎮 Minecraft
+
+I build and manage Minecraft servers from infrastructure to gameplay.
+
+**Server Management**
+
+`Public Servers` `Server Configuration` `Permissions` `Economy` `Events`
+
+**Development**
+
+`Plugins` `Mods` `Custom Systems` `Gameplay Mechanics` `Server Tools`
+
+**Infrastructure**
+
+`VPS` `Linux` `Proxy Networks` `Deployment` `Networking` `Security`
+
+---
+
+### 🤖 Bots & Automation
+
+I also build and work with:
+
+* Discord bots
+* Server automation
+* Custom utilities
+* Management tools
+* APIs and integrations
+
+---
+
+### ⚙️ Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,java,js,ts,python,nodejs,react,docker,git,github,mysql,redis,cloudflare" />
 </p>
 
-## 🌐 Portfolio
+---
 
-My personal space on the web.
+### 📂 Projects
 
-<a href="https://stranger.deathrose.fun/">Visit Portfolio →</a>
+You'll find a mix of:
 
-## 📊 GitHub
+`Minecraft Projects` · `Plugins` · `Mods` · `Discord Bots` · `Web Projects` · `Tools` · `Experiments`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GNMGAMING&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNMGAMING&layout=compact&theme=github_dark&hide_border=true" />
+### 📬 Contact
+
+<p align="left">
+  <a href="https://stranger.deathrose.fun/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-181818?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jubail._.editz_/">
+    <img src="https://img.shields.io/badge/Instagram-@jubail._.editz_-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/GNMGAMING">
+    <img src="https://img.shields.io/badge/GitHub-GNMGAMING-181818?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://stranger.deathrose.fun/">🌐 Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/GNMGAMING">💻 GitHub</a>
-</p>
-
-<p align="center">
-  <sub>Build. Break. Learn. Repeat.</sub>
+  <sub>Building things, managing systems, and learning along the way.</sub>
 </p>
