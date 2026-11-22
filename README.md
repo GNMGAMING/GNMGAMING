@@ -6,18 +6,6 @@ I build and manage software, infrastructure, and Minecraft systems.
 
 I work with **Linux VPS servers, Minecraft servers, plugins, mods, networking, public server infrastructure, Discord bots, and web projects**.
 
-<p align="left">
-  <a href="https://stranger.deathrose.fun/">
-    <img src="https://img.shields.io/badge/Website-stranger.deathrose.fun-181818?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/GNMGAMING">
-    <img src="https://img.shields.io/badge/GitHub-GNMGAMING-181818?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/jubail._.editz_/">
-    <img src="https://img.shields.io/badge/Instagram-@jubail._.editz_-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ What I Work On
@@ -102,9 +90,6 @@ You'll find a mix of:
   </a>
   <a href="https://www.instagram.com/jubail._.editz_/">
     <img src="https://img.shields.io/badge/Instagram-@jubail._.editz_-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/GNMGAMING">
-    <img src="https://img.shields.io/badge/GitHub-GNMGAMING-181818?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
